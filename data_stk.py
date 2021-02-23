@@ -24,7 +24,3 @@ class Stack():
 
     def show(self): #Show the list of items in the stack
         print(self.data_stack)
-
-if __name__=='__main__':
-    
-
