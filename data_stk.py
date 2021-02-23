@@ -1,6 +1,6 @@
 
 class Stack(): 
-    def __init__(self,stack_cap): initialises the stack empty 
+    def __init__(self,stack_cap): #initialises the stack empty 
         self.data_stack=[]
         self.cap=(stack_cap) #Remove line to get rid of stack limit
 
